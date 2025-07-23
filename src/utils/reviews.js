@@ -14,7 +14,7 @@ const reviews = [
   {
     id: 2,
     description:
-      "I ate at Willie’s Country Cooking Restaurant last week and I really enjoyed it.",
+      "I ate at Nick's Pizza and Subs Restaurant last week and I really enjoyed it.",
     img: [Person2Img],
     name: "Maria Cruz",
     initialMotion: "350px",

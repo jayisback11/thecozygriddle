@@ -12,7 +12,7 @@ function ContactInfo() {
       <h2 className="fs-1 mb-3 text-uppercase fw-bold">Where to find us</h2>
       <p className="mb-5 text-center">
         14434 LA-44, Gonzales, LA 70737 <br />{" "}
-        <span style={{ fontWeight: "bold" }}>+1 (225) 622-8112</span>
+        <span style={{ fontWeight: "bold" }}>+1 (225) 622-8118</span>
       </p>
       <h3 className="text-capitalize">Opening hours</h3>
       <p className="m-0">Mon: 11:00AM – 7:30PM</p>

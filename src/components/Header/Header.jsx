@@ -49,10 +49,10 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Willie’s Country Cooking restaurant
+                  Nick's Pizza and Subs restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Willie’s Country Cooking Restaurant, the perfect
+                  Welcome to Nick's Pizza and Subs Restaurant, the perfect
                   experience for special people. Our fancy restaurant will bring
                   your special moments to another level.
                 </p>
@@ -80,10 +80,10 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Willie’s Country Cooking restaurant
+                  Nick's Pizza and Subs restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Willie’s Country Cooking Restaurant, the perfect
+                  Welcome to Nick's Pizza and Subs Restaurant, the perfect
                   experience for special people. Our fancy restaurant will bring
                   your special moments to another level.
                 </p>
