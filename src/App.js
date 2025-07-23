@@ -1,7 +1,7 @@
 import "./App.css";
 import { Link, Routes, Route } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUtensils } from "@fortawesome/free-solid-svg-icons";
+import { faPizzaSlice } from "@fortawesome/free-solid-svg-icons";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
@@ -22,11 +22,11 @@ function App() {
               className="navbar-brand d-flex align-items-center"
               style={{ color: "#b64a41ff" }}
             >
-              <FontAwesomeIcon icon={faUtensils} size="xl" />
+              <FontAwesomeIcon icon={faPizzaSlice} size="xl" />
               <span className="ms-3 lh-1 fw-semibold">
-                Willie's Country
+                Nick's Pizza
                 <br></br>
-                Cooking
+                & Subs
               </span>
             </Link>
           </Navbar.Brand>

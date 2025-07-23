@@ -29,7 +29,7 @@ function Contact() {
       <div style={{ width: "100%", height: "400px" }}>
         <iframe
           title="Google Map"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4113.8566595047405!2d-90.8635437!3d30.495216600000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8626c15b74ba184d%3A0x74d93579d195b535!2sWillie&#39;s%20Country%20Cooking!5e1!3m2!1sen!2sus!4v1753251769413!5m2!1sen!2sus"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4122.87768408305!2d-90.92099259999999!3d30.2812016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8626b639bcdadfe5%3A0x94a25ab0b5c8fa80!2sNick&#39;s%20Pizza%20%26%20Subs!5e1!3m2!1sen!2sus!4v1753298016947!5m2!1sen!2sus"
           width="100%"
           height="100%"
           style={{ border: 0 }}

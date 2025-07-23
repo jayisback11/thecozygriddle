@@ -15,7 +15,9 @@ function AboutUsSection() {
           transition={{ duration: 1 }}
         >
           <img
-            src={AboutSectionImg}
+            src={
+              "https://images.unsplash.com/photo-1593504049359-74330189a345?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
             className="about-section-img img-fluid mt-5 mt-lg-0 shadow"
             alt="about us"
           />
@@ -28,15 +30,15 @@ function AboutUsSection() {
         >
           <h2 className="text-uppercase fw-bold fs-1 mb-4 mb-lg-5">About us</h2>
           <p>
-            Welcome to Willie’s Country Cooking Restaurant, the perfect
-            experience for special people. Our fancy restaurant will bring your
-            special moments to another level.
+            At Nick’s, we don’t just make food—we craft crave-worthy
+            experiences. Our pizzas are made from scratch with fresh dough, rich
+            tomato sauce, and the perfect blend of gooey, golden cheeses. Every
+            topping is sliced fresh daily, and every pie is baked to perfection.
           </p>
           <p className="mb-4 mb-lg-5">
-            Our restaurant is situated at 5 minutes walk from train station and
-            shopping center. The location is ideal for a perfect breakfast, a
-            facny lunch or a nice dinner with your family or friends. We can't
-            wait to serve you our delicious dishes!
+            Sink your teeth into our overstuffed subs—hot, melty, and made just
+            the way you like it. From classic Italian combos to bold, meaty
+            favorites, each bite is packed with flavor and attitude.
           </p>
           <Link to="/about">
             <button

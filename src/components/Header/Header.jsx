@@ -16,12 +16,14 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Willie’s Country Cooking restaurant
+                  Nick's Pizza & Subs
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Willie’s Country Cooking Restaurant, the perfect
-                  experience for special people. Our fancy restaurant will bring
-                  your special moments to another level.
+                  At Nick’s, every meal feels like Sunday dinner. Our pizzas are
+                  handcrafted with love—crisp on the outside, soft on the
+                  inside, and topped with the freshest ingredients. From cheesy
+                  classics to bold, custom creations, there’s a slice for
+                  everyone.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />

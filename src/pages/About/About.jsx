@@ -29,15 +29,17 @@ function About() {
             transition={{ duration: 1 }}
           >
             <p>
-              Welcome to Willie’s Country Cooking, the perfect experience
-              for special people. Our fancy restaurant will bring your special
-              moments to another level.
+              Step into Nick's and experience the perfect mix of comfort food
+              and bold flavor. Our hand-tossed pizzas come out of the oven
+              golden and bubbling, loaded with premium toppings and our
+              signature sauce. Whether you're craving a classic pepperoni or a
+              fully loaded supreme, every bite hits just right.
             </p>
             <p>
-              Our restaurant is situated at 5 minutes walk from train station
-              and shopping center. The location is ideal for a perfect
-              breakfast, a facny lunch or a nice dinner with your family or
-              friends. We can't wait to serve you our delicious dishes!
+              Not in the mood for pizza? Our toasted subs are stacked high with
+              freshly sliced meats, melty cheese, and zesty house-made
+              sauces—all wrapped in warm, crusty bread that makes every sandwich
+              unforgettable.
             </p>
             <Link to="/contact">
               <button
