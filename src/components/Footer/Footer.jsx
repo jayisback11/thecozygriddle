@@ -11,8 +11,7 @@ function Footer() {
 
   return (
     <footer className='bg-body-tertiary' id='footer'>
-        <p className='pt-3 m-0 text-center'>copyright &copy; Korlake Restaurant, 2021-{newDate}</p>
-        <p className='pb-3 m-0 text-center'>Designed and developed by <Link to='https://www.ionutcora.com/' style={{color: '#000000'}} target="_blank">Ionut Cora</Link></p>
+        <p className='pt-3 pb-3 m-0 text-center'>copyright &copy; Willie's Country Cooking, 2025</p>
     </footer>
   )
 }
