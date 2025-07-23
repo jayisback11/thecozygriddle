@@ -19,9 +19,9 @@ function Header() {
                   Willie’s Country Cooking restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Willie’s Country Cooking Restaurant in London, the
-                  perfect experience for special people. Our fancy restaurant
-                  will bring your special moments to another level.
+                  Welcome to Willie’s Country Cooking Restaurant, the perfect
+                  experience for special people. Our fancy restaurant will bring
+                  your special moments to another level.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
@@ -50,9 +50,9 @@ function Header() {
                   Willie’s Country Cooking restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Willie’s Country Cooking Restaurant in London, the
-                  perfect experience for special people. Our fancy restaurant
-                  will bring your special moments to another level.
+                  Welcome to Willie’s Country Cooking Restaurant, the perfect
+                  experience for special people. Our fancy restaurant will bring
+                  your special moments to another level.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
@@ -81,9 +81,9 @@ function Header() {
                   Willie’s Country Cooking restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Willie’s Country Cooking Restaurant in London, the
-                  perfect experience for special people. Our fancy restaurant
-                  will bring your special moments to another level.
+                  Welcome to Willie’s Country Cooking Restaurant, the perfect
+                  experience for special people. Our fancy restaurant will bring
+                  your special moments to another level.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />

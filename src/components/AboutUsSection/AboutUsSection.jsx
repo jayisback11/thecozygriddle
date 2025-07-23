@@ -28,9 +28,9 @@ function AboutUsSection() {
         >
           <h2 className="text-uppercase fw-bold fs-1 mb-4 mb-lg-5">About us</h2>
           <p>
-            Welcome to Willie’s Country Cooking Restaurant in London, the
-            perfect experience for special people. Our fancy restaurant will
-            bring your special moments to another level.
+            Welcome to Willie’s Country Cooking Restaurant, the perfect
+            experience for special people. Our fancy restaurant will bring your
+            special moments to another level.
           </p>
           <p className="mb-4 mb-lg-5">
             Our restaurant is situated at 5 minutes walk from train station and
