@@ -16,14 +16,17 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Nick's Pizza & Subs
+                  Dempsey's Poboys
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  At Nick’s, every meal feels like Sunday dinner. Our pizzas are
-                  handcrafted with love—crisp on the outside, soft on the
-                  inside, and topped with the freshest ingredients. From cheesy
-                  classics to bold, custom creations, there’s a slice for
-                  everyone.
+                  Where crispy meets juicy and every bite tells a story. At
+                  Dempsey’s, we serve up Louisiana’s most iconic sandwich—the
+                  po’boy—piled high with golden fried shrimp, hot roast beef
+                  dripping with gravy, or flaky catfish straight from the fryer.
+                  Nestled in fresh-baked French bread and dressed just right,
+                  our poboys are more than a meal—they’re a tradition. Whether
+                  you like it spicy, saucy, or stacked sky-high, Dempsey’s
+                  brings the bold bayou flavor in every bite.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
@@ -49,12 +52,12 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Nick's Pizza and Subs restaurant
+                  Dempsey's Poboys restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Nick's Pizza and Subs Restaurant, the perfect
-                  experience for special people. Our fancy restaurant will bring
-                  your special moments to another level.
+                  Big flavor. Fresh bread. Piled high and dressed right. At
+                  Dempsey’s, we serve Louisiana-style po’boys that hit the
+                  spot—crispy, saucy, and downright addictive.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
@@ -80,12 +83,11 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Nick's Pizza and Subs restaurant
+                  Dempsey's Poboys restaurant
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Welcome to Nick's Pizza and Subs Restaurant, the perfect
-                  experience for special people. Our fancy restaurant will bring
-                  your special moments to another level.
+                  Home of the po’boy done right—crispy seafood, tender meats,
+                  and bold Cajun flavor packed into every bite.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />

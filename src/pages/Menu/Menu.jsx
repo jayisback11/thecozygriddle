@@ -32,7 +32,7 @@ function Menu() {
         <div className="container">
           <h2
             className="text-center fs-1 mb-4 mb-lg-5 text-uppercase fw-bold "
-            style={{ color: "#b64a41ff" }}
+            style={{ color: "#8b0101" }}
           >
             Breakfast
           </h2>
@@ -67,7 +67,7 @@ function Menu() {
                       </CardText>
                       <CardText
                         className="text-center fs-3 fw-bold "
-                        style={{ color: "#b64a41ff" }}
+                        style={{ color: "#8b0101" }}
                       >
                         {breakfast.price}
                       </CardText>
@@ -84,7 +84,7 @@ function Menu() {
         <div className="container">
           <h2
             className="text-center fs-1 mb-4 mb-lg-5 text-uppercase fw-bold "
-            style={{ color: "#b64a41ff" }}
+            style={{ color: "#8b0101" }}
           >
             Lunch
           </h2>
@@ -107,7 +107,7 @@ function Menu() {
                       </CardText>
                       <CardText
                         className="text-center fs-3 fw-bold "
-                        style={{ color: "#b64a41ff" }}
+                        style={{ color: "#8b0101" }}
                       >
                         {lunch.price}
                       </CardText>
@@ -136,7 +136,7 @@ function Menu() {
         <div className="container">
           <h2
             className="text-center fs-1 mb-4 mb-lg-5 text-uppercase fw-bold "
-            style={{ color: "#b64a41ff" }}
+            style={{ color: "#8b0101" }}
           >
             Dinner
           </h2>
@@ -171,7 +171,7 @@ function Menu() {
                       </CardText>
                       <CardText
                         className="text-center fs-3 fw-bold "
-                        style={{ color: "#b64a41ff" }}
+                        style={{ color: "#8b0101" }}
                       >
                         {dinner.price}
                       </CardText>
@@ -188,7 +188,7 @@ function Menu() {
         <div className="container">
           <h2
             className="text-center fs-1 mb-4 mb-lg-5 text-uppercase fw-bold "
-            style={{ color: "#b64a41ff" }}
+            style={{ color: "#8b0101" }}
           >
             Dessert
           </h2>
@@ -211,7 +211,7 @@ function Menu() {
                       </CardText>
                       <CardText
                         className="text-center fs-3 fw-bold "
-                        style={{ color: "#b64a41ff" }}
+                        style={{ color: "#8b0101" }}
                       >
                         {dessert.price}
                       </CardText>
@@ -240,7 +240,7 @@ function Menu() {
         <div className="container">
           <h2
             className="text-center fs-1 mb-4 mb-lg-5 text-uppercase fw-bold "
-            style={{ color: "#b64a41ff" }}
+            style={{ color: "#8b0101" }}
           >
             Drinks
           </h2>
@@ -272,7 +272,7 @@ function Menu() {
                       </CardTitle>
                       <CardText
                         className="text-center fs-3 fw-bold "
-                        style={{ color: "#b64a41ff" }}
+                        style={{ color: "#8b0101" }}
                       >
                         {drink.price}
                       </CardText>
@@ -295,7 +295,7 @@ function Menu() {
           <button
             type="button"
             className="btn  btn-lg rounded-0 text-capitalize mx-2 shadow"
-            style={{ backgroundColor: "#b64a41ff", color: "white" }}
+            style={{ backgroundColor: "#8b0101", color: "white" }}
           >
             Book your table
           </button>

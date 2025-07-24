@@ -16,7 +16,7 @@ function AboutUsSection() {
         >
           <img
             src={
-              "https://images.unsplash.com/photo-1593504049359-74330189a345?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2VyfGVufDB8fDB8fHww"
             }
             className="about-section-img img-fluid mt-5 mt-lg-0 shadow"
             alt="about us"
@@ -30,15 +30,12 @@ function AboutUsSection() {
         >
           <h2 className="text-uppercase fw-bold fs-1 mb-4 mb-lg-5">About us</h2>
           <p>
-            At Nick’s, we don’t just make food—we craft crave-worthy
-            experiences. Our pizzas are made from scratch with fresh dough, rich
-            tomato sauce, and the perfect blend of gooey, golden cheeses. Every
-            topping is sliced fresh daily, and every pie is baked to perfection.
+            Authentic Southern po’boys, loaded with flavor, fried to perfection,
+            and always served on that perfect New Orleans bread.
           </p>
           <p className="mb-4 mb-lg-5">
-            Sink your teeth into our overstuffed subs—hot, melty, and made just
-            the way you like it. From classic Italian combos to bold, meaty
-            favorites, each bite is packed with flavor and attitude.
+            Serving up New Orleans classics—crispy, saucy, stacked, and
+            unforgettable.
           </p>
           <Link to="/about">
             <button

@@ -6,7 +6,8 @@ function MenuBtn() {
     <Link to="/menu">
       <button
         type="button"
-        className="btn  btn-lg rounded-0 text-capitalize mx-2 mb-3 mb-sm-0"  style={{ backgroundColor: "#b64a41ff", color: "white" }}
+        className="btn  btn-lg rounded-0 text-capitalize mx-2 mb-3 mb-sm-0"
+        style={{ backgroundColor: "#8b0101", color: "white" }}
       >
         Our full menu
       </button>

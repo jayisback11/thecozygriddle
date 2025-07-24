@@ -45,7 +45,7 @@ function About() {
               <button
                 type="button"
                 className="btn  btn-lg rounded-0 text-capitalize mt-3 shadow"
-                style={{ backgroundColor: "#b64a41ff", color: "white" }}
+                style={{ backgroundColor: "#8b0101", color: "white" }}
               >
                 Contact us
               </button>
@@ -60,10 +60,6 @@ function About() {
             <img src={AboutChef1Img} className="img-fluid" alt="our staff" />
           </motion.div>
         </div>
-      </div>
-
-      <div className="bg-dark text-light py-1">
-        <ImageGallery />
       </div>
 
       <div className="my-5">

@@ -43,7 +43,7 @@ export default function ImageGallery() {
               border: "0",
             }}
             src={
-              "https://plus.unsplash.com/premium_photo-1668771085743-1d2d19818140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "https://d1uc6tjdfuj6xp.cloudfront.net/wp-content/uploads/2023/11/07193818/L_1920BPM-Lifestyle-Shrimp-Poboy-Retouched-and-cropped.jpg"
             }
             alt="food"
           />
@@ -57,7 +57,7 @@ export default function ImageGallery() {
               border: "0",
             }}
             src={
-              "https://images.unsplash.com/photo-1613564834361-9436948817d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBpenphfGVufDB8fDB8fHww"
+              "https://images.squarespace-cdn.com/content/v1/5942c74e8419c2dea969f0c3/1524691260470-K3O6IBGVHYL888U0K1E2/Our+Mom%27s+Fried+Shrimp+Po+Boy"
             }
             alt="food"
           />
@@ -71,7 +71,7 @@ export default function ImageGallery() {
               border: "0",
             }}
             src={
-              "https://images.unsplash.com/photo-1600028068383-ea11a7a101f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBpenphfGVufDB8fDB8fHww"
+              "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/bwpfkcyh/e1592dd6-01b5-442e-b401-aa3b2413ac02.jpg"
             }
             alt="food"
           />
@@ -85,7 +85,7 @@ export default function ImageGallery() {
               border: "0",
             }}
             src={
-              "https://images.unsplash.com/photo-1571066811602-716837d681de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBpenphfGVufDB8fDB8fHww"
+              "https://i0.wp.com/travelawaits.com/wp-content/uploads/2021/05/Shrimp-PoBoy-At-200-North-Beach-Bay-St.-Louis-Image-Courtesy-of-Jeanine-Consoli-Tony-Consoli.jpeg?resize=1000%2C750&ssl=1"
             }
             alt="food"
           />
