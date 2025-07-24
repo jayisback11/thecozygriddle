@@ -23,10 +23,6 @@ function Header() {
                   Dempsey’s, we serve up Louisiana’s most iconic sandwich—the
                   po’boy—piled high with golden fried shrimp, hot roast beef
                   dripping with gravy, or flaky catfish straight from the fryer.
-                  Nestled in fresh-baked French bread and dressed just right,
-                  our poboys are more than a meal—they’re a tradition. Whether
-                  you like it spicy, saucy, or stacked sky-high, Dempsey’s
-                  brings the bold bayou flavor in every bite.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
