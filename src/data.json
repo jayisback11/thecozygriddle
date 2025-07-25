@@ -21,7 +21,11 @@
     "aboutus": "At Sam’s Donut, we believe life’s better with sprinkles. Fresh-made donuts, warm smiles, and good vibes—served daily.",
     "aboutus2": "We make donuts the old-fashioned way—fresh, sweet, and made to make your day better. That’s the Sam’s Donut promise.",
     "aboutusimage": "https://s3-media0.fl.yelpcdn.com/bphoto/oCATpomTQUvE0d28JpAvjg/o.jpg",
-    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/M6A9lBkSyvwfkF_2cXV0pg/o.jpg"
+    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/M6A9lBkSyvwfkF_2cXV0pg/o.jpg",
+    "socmed": {
+      "doordash": "https://www.doordash.com/store/sams-of-walker-walker-1744591/2194708/?pickup=true&rwg_token=ACgRB3cWE2SlAvAObjaj5e6OtwbKsGq9WrP1H9wkPd5VCnlsYrVVsdvgVl7of1hO5JfjbeuHy626o0-YKRKVKt9tf-q6L-4_Xw==&utm_campaign=gpa",
+      "ubereats":""
+    }
   },
   "menu": {
     "backgroundimage": "https://plus.unsplash.com/premium_photo-1677591560099-176391189f12?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
