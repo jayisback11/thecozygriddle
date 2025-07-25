@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import AboutChef1Img from "../../utils/images/about-chef1-img.jpg";
 import ImageGallery from "../../components/ImageGallery/ImageGallery";
-import Reviews from "../../components/Reviews/Reviews";
 import data from "../../data.json"
 
 function About() {
@@ -37,7 +36,7 @@ function About() {
               <button
                 type="button"
                 className="btn  btn-lg rounded-0 text-capitalize mt-3 shadow"
-                style={{ backgroundColor: "#205f99ff", color: "white" }}
+                style={{ backgroundColor: data.theme.color, color: "white" }}
               >
                 Contact us
               </button>

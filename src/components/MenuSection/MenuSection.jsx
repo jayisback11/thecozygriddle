@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import food from "../../utils/food";
 import drinks from "../../utils/drinks";
 import MenuBtn from "../MenuBtn/MenuBtn";
-import MenuDemps from "./MenuDempeys";
+import MenuList from "./MenuList";
 import data from "../../data.json";
 
 function MenuSection() {
@@ -18,7 +18,7 @@ function MenuSection() {
       }}
     >
       <div className="container d-flex flex-column align-items-center">
-        <MenuDemps />
+        <MenuList />
       </div>
     </div>
   );
