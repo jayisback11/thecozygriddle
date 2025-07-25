@@ -1,0 +1,52 @@
+{
+  "theme": {
+    "color": "#226090",
+    "text": "white"
+  },
+  "nav": {
+    "businessname": "Sam's",
+    "businessname2": "Donut"
+  },
+  "welcome": {
+    "businessname": "Sam's Donut",
+    "description": "At Sam’s Donut, we believe in keeping things simple, sweet,and made with love. Our journey began with a passion for fresh, handcrafted donuts and a dream to create a place where the community could gather, share smiles, and enjoy treats that warm the heart.",
+    "description2": "Our Classic Glazed Donut is soft, airy, and covered in a sweet, silky glaze that melts in your mouth. It’s simple, timeless, and irresistibly delicious.",
+    "description3": "The Maple Bacon Donut combines rich maple frosting with crunchy, smoky bacon for a sweet and savory flavor explosion. It’s breakfast and dessert in one unforgettable bite.",
+    "image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/e47684ae-1046-48ce-b96c-182d0c79262e.png",
+    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/cU5fUk2HM2Khug0dpxbxAw/o.jpg",
+    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/hseX-fhfnC7xbI6JcmAZZw/o.jpg"
+  },
+  "aboutussection": {
+    "businessname": "Sam's Donut",
+    "aboutus": "At Sam’s Donut, we believe life’s better with sprinkles. Fresh-made donuts, warm smiles, and good vibes—served daily.",
+    "aboutus2": "We make donuts the old-fashioned way—fresh, sweet, and made to make your day better. That’s the Sam’s Donut promise.",
+    "aboutusimage": "https://s3-media0.fl.yelpcdn.com/bphoto/oCATpomTQUvE0d28JpAvjg/o.jpg",
+    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/M6A9lBkSyvwfkF_2cXV0pg/o.jpg"
+  },
+  "menu": {
+    "backgroundimage": "https://plus.unsplash.com/premium_photo-1677591560099-176391189f12?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "gallery": {
+    "image1": "https://s3-media0.fl.yelpcdn.com/bphoto/oCATpomTQUvE0d28JpAvjg/o.jpg",
+    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/hseX-fhfnC7xbI6JcmAZZw/o.jpg",
+    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/Ioab4sA-aKb3zqFQKXR6CA/o.jpg"
+  },
+  "contact": {
+    "phone": "+1 (225) 667-8484",
+    "email": "contact@donutshot.com",
+    "hours": {
+      "mon": "4:30AM – 11:00AM",
+      "tue": "4:30AM – 11:00AM",
+      "wed": "4:30AM – 11:00AM",
+      "thu": "4:30AM – 11:00AM",
+      "fri": "4:30AM – 11:00AM",
+      "sat": "4:30AM – 12:00AM",
+      "sun": "4:30AM – 12:00AM"
+    },
+    "address": "9997 Florida Blvd, Walker, LA 70785",
+    "businessimage": "https://s3-media0.fl.yelpcdn.com/bphoto/zmnhperBe2GGS3ml-qvf3g/o.jpg"
+  },
+  "footer": {
+    "businessname": "Sam's Donut"
+  }
+}

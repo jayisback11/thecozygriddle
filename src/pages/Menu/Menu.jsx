@@ -13,23 +13,13 @@ import lunch from "../../utils/lunch";
 import dinner from "../../utils/dinner";
 import dessert from "../../utils/dessert";
 import drink from "../../utils/drink";
-import MenuDempeys from "../../components/MenuSection/MenuDempeys";
+import MenuSec from "../../components/MenuSection/MenuSection";
+import data from "../../data.json";
 
 function Menu() {
   return (
     <div className="menu-page">
-      <header className="height-50 mt-5">
-        <motion.div
-          className="container h-100 d-flex align-items-center justify-content-center"
-          initial={{ opacity: 0, y: -50 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 1 }}
-        >
-          <h1 className="text-light">Menu</h1>
-        </motion.div>
-      </header>
-
-      <MenuDempeys />
+      <MenuSec />
 
       <motion.div
         className="container my-5 pt-5 d-flex justify-content-center"

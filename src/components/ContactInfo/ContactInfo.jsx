@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-
+import data from "../../data.json"
 function ContactInfo() {
   return (
     <motion.div
@@ -11,18 +11,18 @@ function ContactInfo() {
     >
       <h2 className="fs-1 mb-3 text-uppercase fw-bold">Where to find us</h2>
       <p className="mb-5 text-center">
-        9997 Florida Blvd, Walker, LA 70785 <br />{" "}
-        <span style={{ fontWeight: "bold" }}>+1 (225) 667-8484</span>
+        {data.contact.address} <br />{" "}
+        <span style={{ fontWeight: "bold" }}>{data.contact.phone}</span>
       </p>
       
       <h3 className="text-capitalize">Opening hours</h3>
-      <p className="m-0">Mon: 4:30AM – 11:00AM</p>
-      <p className="m-0">Tue: 4:30AM – 11:00AM</p>
-      <p className="m-0">Wed: 4:30AM – 11:00AM</p>
-      <p className="m-0">Thu: 4:30AM – 11:00AM</p>
-      <p className="m-0">Fri: 4:30AM – 11:00AM</p>
-      <p className="m-0">Sat: 4:30AM – 12:00AM</p>
-      <p className="m-0">Sun: 4:30AM – 12:00AM</p>
+      <p className="m-0">Mon: {data.contact.hours.mon}</p>
+      <p className="m-0">Tue: {data.contact.hours.tue}</p>
+      <p className="m-0">Wed: {data.contact.hours.wed}</p>
+      <p className="m-0">Thu: {data.contact.hours.thu}</p>
+      <p className="m-0">Fri: {data.contact.hours.fri}</p>
+      <p className="m-0">Sat: {data.contact.hours.sat}</p>
+      <p className="m-0">Sun: {data.contact.hours.sun}</p>
     </motion.div>
   );
 }

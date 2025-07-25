@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import AboutChef1Img from "../../utils/images/about-chef1-img.jpg";
 import ImageGallery from "../../components/ImageGallery/ImageGallery";
 import Reviews from "../../components/Reviews/Reviews";
+import data from "../../data.json"
 
 function About() {
   return (
@@ -29,12 +30,9 @@ function About() {
             transition={{ duration: 1 }}
           >
             <p>
-              At Sam’s Donut, we keep it fresh, fluffy, and full of flavor.
-              Every morning, we handcraft our donuts with care and serve them
-              with a smile. Whether you’re grabbing a quick bite or treating the
-              whole office, we’ve got the perfect donut for every craving.
+              {data.aboutussection.aboutus}
             </p>
-            <p>Local love. Fresh donuts. Every day.</p>
+            <p>{data.aboutussection.aboutus2}</p>
             <Link to="/contact">
               <button
                 type="button"
@@ -51,13 +49,9 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            <img src={"https://s3-media0.fl.yelpcdn.com/bphoto/M6A9lBkSyvwfkF_2cXV0pg/o.jpg"} className="img-fluid" alt="our staff" />
+            <img src={data.aboutussection.imageinsidestore} className="img-fluid" alt="our staff" />
           </motion.div>
         </div>
-      </div>
-
-      <div className="my-5">
-        <Reviews />
       </div>
     </div>
   );

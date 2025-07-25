@@ -10,6 +10,7 @@ import Menu from "./pages/Menu/Menu";
 import About from "./pages/About/About";
 import Contact from "./pages/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import data from "./data.json";
 
 function App() {
   return (
@@ -20,13 +21,13 @@ function App() {
             <Link
               to="/"
               className="navbar-brand d-flex align-items-center"
-              style={{ color: "#205f99ff" }}
+              style={{ color: data.theme.color }}
             >
               <FontAwesomeIcon icon={faMugSaucer} size="xl" />
               <span className="ms-3 lh-1 fw-semibold">
-                Sam's
+                {data.nav.businessname}
                 <br></br>
-                Donuts
+                {data.nav.businessname2}
               </span>
             </Link>
           </Navbar.Brand>
@@ -35,38 +36,48 @@ function App() {
             <Nav className="me-auto justify-content-center w-100 ">
               <Link
                 to="/"
+                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#205f99ff" }}
+                style={{ color: data.theme.color }}
               >
                 Home
               </Link>
               <Link
                 to="/menu"
+                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#205f99ff" }}
+                style={{ color: data.theme.color }}
               >
                 Menu
               </Link>
               <Link
                 to="/about"
+                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#205f99ff" }}
+                style={{ color: data.theme.color }}
               >
                 About
               </Link>
               <Link
                 to="/contact"
+                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#205f99ff" }}
+                style={{ color: data.theme.color }}
               >
                 Contact
               </Link>
             </Nav>
-            <Link to="/contact">
+            <Link
+              to="/contact"
+              onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+            >
               <button
                 type="button"
                 className="btn  rounded-0 text-capitalize my-3 my-lg-0 ms-lg-4 text-nowrap"
-                style={{ backgroundColor: "#205f99ff", color: "white" }}
+                style={{
+                  backgroundColor: data.theme.color,
+                  color: data.theme.text,
+                }}
               >
                 Contact Us
               </button>

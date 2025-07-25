@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import ContactInfo from "../../components/ContactInfo/ContactInfo";
 import ContactForm from "../../components/ContactForm/ContactForm";
 import Reviews from "../../components/Reviews/Reviews";
+import data from "../../data.json";
 
 function Contact() {
   return (

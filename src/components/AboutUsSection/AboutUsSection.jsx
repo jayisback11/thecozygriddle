@@ -3,7 +3,7 @@ import "./AboutUsSection.css";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import AboutSectionImg from "../../utils/images/about-section-img.jpg";
-
+import data from "../../data.json";
 function AboutUsSection() {
   return (
     <div className="container my-5">
@@ -15,9 +15,7 @@ function AboutUsSection() {
           transition={{ duration: 1 }}
         >
           <img
-            src={
-              "https://s3-media0.fl.yelpcdn.com/bphoto/oCATpomTQUvE0d28JpAvjg/o.jpg"
-            }
+            src={data.aboutussection.aboutusimage}
             className="about-section-img img-fluid mt-5 mt-lg-0 shadow"
             alt="about us"
           />
@@ -29,14 +27,8 @@ function AboutUsSection() {
           transition={{ duration: 1 }}
         >
           <h2 className="text-uppercase fw-bold fs-1 mb-4 mb-lg-5">About us</h2>
-          <p>
-            At Sam’s Donut, we believe life’s better with sprinkles. Fresh-made
-            donuts, warm smiles, and good vibes—served daily.
-          </p>
-          <p className="mb-4 mb-lg-5">
-            We make donuts the old-fashioned way—fresh, sweet, and made to make
-            your day better. That’s the Sam’s Donut promise.
-          </p>
+          <p>{data.aboutussection.aboutus}</p>
+          <p className="mb-4 mb-lg-5">{data.aboutussection.aboutus2}</p>
           <Link to="/about">
             <button
               type="button"

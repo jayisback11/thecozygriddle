@@ -3,6 +3,7 @@ import "./ContactSection.css";
 import { motion } from "framer-motion";
 import ContactInfo from "../ContactInfo/ContactInfo";
 import ContactSectionImg from "../../utils/images/contact-section-img.jpg";
+import data from "../../data.json";
 
 function ContactSection() {
   return (
@@ -19,15 +20,12 @@ function ContactSection() {
             transition={{ duration: 1 }}
           >
             <img
-              src={
-                "https://s3-media0.fl.yelpcdn.com/bphoto/zmnhperBe2GGS3ml-qvf3g/o.jpg"
-              }
+              src={data.contact.businessimage}
               className="img-fluid"
               alt=""
             />
           </motion.div>
         </div>
-        
       </div>
     </div>
   );
