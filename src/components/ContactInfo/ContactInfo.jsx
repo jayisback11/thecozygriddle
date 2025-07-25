@@ -26,7 +26,39 @@ function ContactInfo() {
       <p className="m-0">Sat: {data.contact.hours.sat}</p>
       <p className="m-0">Sun: {data.contact.hours.sun}</p>
 
-      <div className="mt-5">
+      <div className="mt-5 d-flex flex-wrap justify-content-center gap-2">
+        {data.aboutussection.socmed.facebook && (
+          <Link
+            target="_blank"
+            rel="noopener noreferrer"
+            to={data.aboutussection.socmed.facebook}
+          >
+            <button
+              type="button"
+              className="btn btn-outline-light btn-md border-0 rounded text-capitalize mx-2 shadow"
+              style={{ backgroundColor: "#1877F2" }}
+            >
+              Facebook
+            </button>
+          </Link>
+        )}
+
+        {data.aboutussection.socmed.instagram && (
+          <Link
+            target="_blank"
+            rel="noopener noreferrer"
+            to={data.aboutussection.socmed.instagram}
+          >
+            <button
+              type="button"
+              className="btn btn-outline-light btn-md border-0 rounded text-capitalize mx-2 shadow"
+              style={{ backgroundColor: "#d62976" }}
+            >
+              Instagram
+            </button>
+          </Link>
+        )}
+
         {data.aboutussection.socmed.doordash && (
           <Link
             target="_blank"
@@ -35,7 +67,7 @@ function ContactInfo() {
           >
             <button
               type="button"
-              className="btn btn-outline-light btn-lg rounded text-capitalize mx-2 shadow"
+              className="btn btn-outline-light btn-md border-0 rounded text-capitalize mx-2 shadow"
               style={{ backgroundColor: "#FF3008" }}
             >
               Doordash
@@ -51,7 +83,7 @@ function ContactInfo() {
           >
             <button
               type="button"
-              className="btn btn-outline-light btn-lg rounded text-capitalize mx-2 shadow"
+              className="btn btn-outline-light btn-md border-0 rounded text-capitalize mx-2 shadow"
               style={{ backgroundColor: "#06C167" }}
             >
               Ubereats

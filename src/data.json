@@ -24,7 +24,9 @@
     "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/M6A9lBkSyvwfkF_2cXV0pg/o.jpg",
     "socmed": {
       "doordash": "https://www.doordash.com/store/sams-of-walker-walker-1744591/2194708/?pickup=true&rwg_token=ACgRB3cWE2SlAvAObjaj5e6OtwbKsGq9WrP1H9wkPd5VCnlsYrVVsdvgVl7of1hO5JfjbeuHy626o0-YKRKVKt9tf-q6L-4_Xw==&utm_campaign=gpa",
-      "ubereats":""
+      "ubereats": "s",
+      "instagram": "s",
+      "facebook": "s"
     }
   },
   "menu": {
