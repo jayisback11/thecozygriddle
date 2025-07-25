@@ -29,23 +29,17 @@ function About() {
             transition={{ duration: 1 }}
           >
             <p>
-              Step into Nick's and experience the perfect mix of comfort food
-              and bold flavor. Our hand-tossed pizzas come out of the oven
-              golden and bubbling, loaded with premium toppings and our
-              signature sauce. Whether you're craving a classic pepperoni or a
-              fully loaded supreme, every bite hits just right.
+              At Sam’s Donut, we keep it fresh, fluffy, and full of flavor.
+              Every morning, we handcraft our donuts with care and serve them
+              with a smile. Whether you’re grabbing a quick bite or treating the
+              whole office, we’ve got the perfect donut for every craving.
             </p>
-            <p>
-              Not in the mood for pizza? Our toasted subs are stacked high with
-              freshly sliced meats, melty cheese, and zesty house-made
-              sauces—all wrapped in warm, crusty bread that makes every sandwich
-              unforgettable.
-            </p>
+            <p>Local love. Fresh donuts. Every day.</p>
             <Link to="/contact">
               <button
                 type="button"
                 className="btn  btn-lg rounded-0 text-capitalize mt-3 shadow"
-                style={{ backgroundColor: "#8b0101", color: "white" }}
+                style={{ backgroundColor: "#205f99ff", color: "white" }}
               >
                 Contact us
               </button>
@@ -57,7 +51,7 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            <img src={AboutChef1Img} className="img-fluid" alt="our staff" />
+            <img src={"https://s3-media0.fl.yelpcdn.com/bphoto/M6A9lBkSyvwfkF_2cXV0pg/o.jpg"} className="img-fluid" alt="our staff" />
           </motion.div>
         </div>
       </div>

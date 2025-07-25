@@ -20,13 +20,14 @@ function ContactSection() {
           >
             <img
               src={
-                "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/486835878_1205226551607363_1825809981692205237_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-UFQUoCsvLoQ7kNvwHVTmYo&_nc_oc=AdkEt_trhLdfGu5JKI5Jw31em85mpUF5sC-dSdXlWMU6sqKTWt58D8Kos_S7REdX93s&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=zrJSe7n5LT2LVFOdp88ANA&oh=00_AfSs7m5SfyTnwDtLquJB0SFPwQhV6tunLhVLQ4NBXN6qyQ&oe=68881767"
+                "https://s3-media0.fl.yelpcdn.com/bphoto/zmnhperBe2GGS3ml-qvf3g/o.jpg"
               }
               className="img-fluid"
               alt=""
             />
           </motion.div>
         </div>
+        
       </div>
     </div>
   );

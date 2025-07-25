@@ -16,7 +16,7 @@ function AboutUsSection() {
         >
           <img
             src={
-              "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2VyfGVufDB8fDB8fHww"
+              "https://s3-media0.fl.yelpcdn.com/bphoto/oCATpomTQUvE0d28JpAvjg/o.jpg"
             }
             className="about-section-img img-fluid mt-5 mt-lg-0 shadow"
             alt="about us"
@@ -30,12 +30,12 @@ function AboutUsSection() {
         >
           <h2 className="text-uppercase fw-bold fs-1 mb-4 mb-lg-5">About us</h2>
           <p>
-            Authentic Southern po’boys, loaded with flavor, fried to perfection,
-            and always served on that perfect New Orleans bread.
+            At Sam’s Donut, we believe life’s better with sprinkles. Fresh-made
+            donuts, warm smiles, and good vibes—served daily.
           </p>
           <p className="mb-4 mb-lg-5">
-            Serving up New Orleans classics—crispy, saucy, stacked, and
-            unforgettable.
+            We make donuts the old-fashioned way—fresh, sweet, and made to make
+            your day better. That’s the Sam’s Donut promise.
           </p>
           <Link to="/about">
             <button

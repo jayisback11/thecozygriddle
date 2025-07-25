@@ -7,7 +7,7 @@ function MenuBtn() {
       <button
         type="button"
         className="btn  btn-lg rounded-0 text-capitalize mx-2 mb-3 mb-sm-0"
-        style={{ backgroundColor: "#8b0101", color: "white" }}
+        style={{ backgroundColor: "#205f99ff", color: "white" }}
       >
         Our full menu
       </button>

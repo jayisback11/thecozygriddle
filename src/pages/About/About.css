@@ -1,9 +1,11 @@
 .about-page header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../../utils/images/about-page-header-img.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("https://s3-media0.fl.yelpcdn.com/bphoto/iVVvWIq_7CO0swQUiPta7A/o.jpg");
 }
 
 @media only screen and (max-width: 576px) {
-    .about-page header {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(../../utils/images/about-page-header-img.jpg);
-    }
+  .about-page header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
+      url("https://s3-media0.fl.yelpcdn.com/bphoto/iVVvWIq_7CO0swQUiPta7A/o.jpg");
+  }
 }

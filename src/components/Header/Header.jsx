@@ -16,13 +16,14 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Dempsey's Poboys
+                  Sam's Donuts
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Where crispy meets juicy and every bite tells a story. At
-                  Dempsey’s, we serve up Louisiana’s most iconic sandwich—the
-                  po’boy—piled high with golden fried shrimp, hot roast beef
-                  dripping with gravy, or flaky catfish straight from the fryer.
+                  At Sam’s Donut, we believe in keeping things simple, sweet,
+                  and made with love. Our journey began with a passion for
+                  fresh, handcrafted donuts and a dream to create a place where
+                  the community could gather, share smiles, and enjoy treats
+                  that warm the heart.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />
@@ -48,7 +49,7 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Dempsey's Poboys restaurant
+                  Sam's Donuts
                 </h1>
                 <p className="mb-4 text-center text-md-start">
                   Big flavor. Fresh bread. Piled high and dressed right. At
@@ -79,11 +80,12 @@ function Header() {
                   Welcome to
                 </h2>
                 <h1 className="text-capitalize fw-bold text-center text-md-start">
-                  Dempsey's Poboys restaurant
+                  Sam's Donuts
                 </h1>
                 <p className="mb-4 text-center text-md-start">
-                  Home of the po’boy done right—crispy seafood, tender meats,
-                  and bold Cajun flavor packed into every bite.
+                  Big flavor. Fresh bread. Piled high and dressed right. At
+                  Dempsey’s, we serve Louisiana-style po’boys that hit the
+                  spot—crispy, saucy, and downright addictive.
                 </p>
                 <div className="d-flex flex-column flex-sm-row">
                   <MenuBtn />

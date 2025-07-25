@@ -1,7 +1,7 @@
 import "./App.css";
 import { Link, Routes, Route } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBurger } from "@fortawesome/free-solid-svg-icons";
+import { faMugSaucer } from "@fortawesome/free-solid-svg-icons";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
@@ -20,13 +20,13 @@ function App() {
             <Link
               to="/"
               className="navbar-brand d-flex align-items-center"
-              style={{ color: "#8b0101" }}
+              style={{ color: "#205f99ff" }}
             >
-              <FontAwesomeIcon icon={faBurger} size="xl" />
+              <FontAwesomeIcon icon={faMugSaucer} size="xl" />
               <span className="ms-3 lh-1 fw-semibold">
-                Dempsey's
+                Sam's
                 <br></br>
-                Poboys
+                Donuts
               </span>
             </Link>
           </Navbar.Brand>
@@ -36,28 +36,28 @@ function App() {
               <Link
                 to="/"
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#8b0101" }}
+                style={{ color: "#205f99ff" }}
               >
                 Home
               </Link>
               <Link
                 to="/menu"
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#8b0101" }}
+                style={{ color: "#205f99ff" }}
               >
                 Menu
               </Link>
               <Link
                 to="/about"
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#8b0101" }}
+                style={{ color: "#205f99ff" }}
               >
                 About
               </Link>
               <Link
                 to="/contact"
                 className="nav-link text-uppercase text-center fw-semibold"
-                style={{ color: "#8b0101" }}
+                style={{ color: "#205f99ff" }}
               >
                 Contact
               </Link>
@@ -66,7 +66,7 @@ function App() {
               <button
                 type="button"
                 className="btn  rounded-0 text-capitalize my-3 my-lg-0 ms-lg-4 text-nowrap"
-                style={{ backgroundColor: "#8b0101", color: "white" }}
+                style={{ backgroundColor: "#205f99ff", color: "white" }}
               >
                 Contact Us
               </button>
