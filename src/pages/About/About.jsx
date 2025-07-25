@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import AboutChef1Img from "../../utils/images/about-chef1-img.jpg";
 import ImageGallery from "../../components/ImageGallery/ImageGallery";
-import data from "../../data.json"
+import data from "../../data.json";
 
 function About() {
   return (
@@ -28,9 +28,7 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            <p>
-              {data.aboutussection.aboutus}
-            </p>
+            <p>{data.aboutussection.aboutus}</p>
             <p>{data.aboutussection.aboutus2}</p>
             <Link to="/contact">
               <button
@@ -48,7 +46,11 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            <img src={data.aboutussection.imageinsidestore} className="img-fluid" alt="our staff" />
+            <img
+              src={data.aboutussection.imageinsidestore}
+              className="img-fluid"
+              alt="our staff"
+            />
           </motion.div>
         </div>
       </div>

@@ -31,7 +31,7 @@ function Menu() {
           <button
             type="button"
             className="btn  btn-lg rounded-0 text-capitalize mx-2 shadow"
-            style={{ backgroundColor: "#205f99ff", color: "white" }}
+            style={{ backgroundColor: data.theme.color, color: "white" }}
           >
             Book your table
           </button>

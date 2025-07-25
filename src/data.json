@@ -1,58 +1,59 @@
 {
   "theme": {
-    "color": "#b54e03",
+    "color": "#aa9425",
     "text": "white"
   },
   "nav": {
-    "businessname": "Turkish And Greek Cafe",
-    "businessname2": "Mediterranean"
+    "businessname": "The Cozy Griddle",
+    "businessname2": "Breakfast & Lunch"
   },
   "welcome": {
-    "businessname": "Turkish And Greek Cafe",
-    "description": "At Turkish And Greek Cafe, experience the vibrant flavors of the Mediterranean in a cozy and welcoming environment. From traditional Turkish tea to Greek spanakopita, our menu is made with fresh ingredients and authentic recipes.",
-    "description2": "Try our signature Lamb Shank over fragrant basmati rice, or savor housemade falafel with creamy hummus. Every dish is prepared with care and bursting with flavor.",
-    "description3": "Don’t miss our Maza Platter or Baklava for an unforgettable finish to your meal.",
-    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/FtGiGCHCijSJ4lwhzx0siQ/o.jpg",
-    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/vuaAmwy7FzZdmiTrgUAJ0g/o.jpg",
-    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/LwEq1H85VUSkwFLdwqjsRg/o.jpg"
+    "businessname": "The Cozy Griddle",
+    "description": "At The Cozy Griddle, warm and comforting breakfast and lunch favorites are served all day in a relaxed, inviting atmosphere on Coursey Boulevard.",
+    "description2": "Enjoy signature griddle cakes, build‑your‑own omelets, breakfast bowls, shrimp & grits, and hearty steak croissant platters. Don’t miss our red beans & rice lunch special on Mondays!",
+    "description3": "Everything is cooked to order with fresh ingredients, generous portions, and a friendly neighborhood vibe.",
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lRvHaiEHSPCzrx_Iq7_3zg/o.jpg",
+    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/m8MpxCAXYEl3gKt75cfErw/o.jpg",
+    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/DyyLSiJ7q4ftUaWmCjN0wA/o.jpg"
   },
   "aboutussection": {
-    "businessname": "Turkish And Greek Cafe",
-    "aboutus": "At Turkish And Greek Cafe, we blend the best of Turkish and Greek culinary traditions in Baton Rouge. Our chef-owner takes pride in crafting each dish from scratch using high-quality, fresh ingredients. We offer a warm atmosphere, generous portions, and friendly, attentive service.",
-    "aboutus2": "From signature gyros and kebabs to vegetarian falafel and tabouli, our menu offers something for everyone. Stop by for dine-in, takeout, or delivery—our goal is to serve you the Mediterranean taste you craved.",
-    "aboutusimage": "https://s3-media0.fl.yelpcdn.com/bphoto/uWoYrUk_EFG9iIFtegu1Nw/o.jpg",
-    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/ZSCvzv0rf4en4owCKZfEQw/o.jpg",
+    "businessname": "The Cozy Griddle",
+    "aboutus": "Founded by Baton Rouge native Tarick Johnson, drawing on family’s catering legacy (SYI), The Cozy Griddle offers a modern breakfast concept rooted in comforting traditions.",
+    "aboutus2": "Located in a bright, butter‑yellow space inspired by his grandmother’s favorite color, the menu features all‑day breakfast, biscuits, pancakes, omelets and weekday lunch specials like red beans & rice.",
+    "aboutusimage": "https://s3-media0.fl.yelpcdn.com/bphoto/_mApXrvs0mGVGM5vPZkjtw/o.jpg",
+    "imageinsidestore": "https://s3-media0.fl.yelpcdn.com/bphoto/_mApXrvs0mGVGM5vPZkjtw/o.jpg",
     "socmed": {
-      "doordash": "https://www.doordash.com/store/turkish-and-greek-cafe-baton-rouge",
-      "ubereats": "https://www.ubereats.com/store/turkish-and-greek-cafe",
-      "instagram": "https://www.instagram.com/turkishandgreekcafe_br",
-      "facebook": "https://www.facebook.com/turkishandgreekcafeBR"
+      "instagram": "https://www.instagram.com/the_cozygriddle/?hl=en",
+      "facebook": "https://www.facebook.com/profile.php?id=61576131334437#",
+      "doordash": "",
+      "ubereats": ""
     }
   },
   "menu": {
     "backgroundimage": "https://res-menu.com/images/menu-bg.jpg"
   },
   "gallery": {
-    "image1": "https://s3-media0.fl.yelpcdn.com/bphoto/PCpiQM4CpoYhQlgTXmvGSA/o.jpg",
-    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/c2X1Ttcd1jo2G-f7On6qXA/o.jpg",
-    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/H82rFfSE6Nlknz5ICPXYBw/o.jpg"
+    "image1": "https://s3-media0.fl.yelpcdn.com/bphoto/RIbUXGKEQkGpBnvKyuikTg/o.jpg",
+    "image2": "https://s3-media0.fl.yelpcdn.com/bphoto/6zbGs12iYewkMVCfMOwwXg/o.jpg",
+    "image3": "https://s3-media0.fl.yelpcdn.com/bphoto/Gz9vaT2S8yQ3-NIdyrcgLQ/o.jpg"
   },
   "contact": {
-    "phone": "+1 (225) 256‑3973",
-    "email": "turkish.greekcafe@yahoo.com",
+    "backgroundimage": "https://images.unsplash.com/photo-1528699633788-424224dc89b5?q=80&w=733&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "phone": "+1 (225) 317-3122",
+    "email": "",
     "hours": {
-      "mon": "11:00AM – 9:00PM",
-      "tue": "11:00AM – 9:00PM",
-      "wed": "11:00AM – 9:00PM",
-      "thu": "11:00AM – 9:00PM",
-      "fri": "11:00AM – 9:00PM",
-      "sat": "11:00AM – 9:00PM",
+      "mon": "7:00 AM – 2:00 PM",
+      "tue": "7:00 AM – 2:00 PM",
+      "wed": "7:00 AM – 2:00 PM",
+      "thu": "7:00 AM – 2:00 PM",
+      "fri": "7:00 AM – 2:00 PM",
+      "sat": "8:00 AM – 2:00 PM",
       "sun": "Closed"
     },
-    "address": "8312 Florida Blvd, Baton Rouge, LA 70806",
-    "businessimage": "https://s3-media0.fl.yelpcdn.com/bphoto/gcvgs1NCRlNGhx6TTdXTMQ/o.jpg"
+    "address": "11445 Coursey Blvd, Suite C, Baton Rouge, LA 70816",
+    "businessimage": "https://s3-media0.fl.yelpcdn.com/bphoto/gUBSH2sGG6Jlcq4CcXLHOQ/o.jpg"
   },
   "footer": {
-    "businessname": "Turkish And Greek Cafe"
+    "businessname": "The Cozy Griddle"
   }
 }

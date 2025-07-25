@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import data from "../../data.json"
+import data from "../../data.json";
 function MenuBtn() {
   return (
     <Link to="/menu">

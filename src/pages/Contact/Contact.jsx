@@ -8,7 +8,14 @@ import data from "../../data.json";
 function Contact() {
   return (
     <div className="contact-page" id="contact-page">
-      <header className="height-50 mt-5">
+      <header
+        className="height-50 mt-5"
+        style={{
+          backgroundImage: `linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${data.contact.backgroundimage})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
         <motion.div
           className="container h-100 d-flex align-items-center justify-content-center"
           initial={{ opacity: 0, y: -50 }}
